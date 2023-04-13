@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">DatabaseAppEx</string>
+    <string name="football_teams">Football Teams</string>
+    <string name="name">Name</string>
+    <string name="state">State:</string>
+    <string name="result">Result</string>
+    <string name="add">Add</string>
+    <string name="get">Get</string>
+    <string name="city">City:</string>
+    <string name="delete">Delete</string>
+    <string name="state2">state2</string>
+    <string-array name="states">
+        <item>AL</item>
+        <item>AK</item>
+        <item>AZ</item>
+        <item>AR</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DE</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>HI</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>IA</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>ME</item>
+        <item>MD</item>
+        <item>MA</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>MO</item>
+        <item>MT</item>
+        <item>NE</item>
+        <item>NV</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NM</item>
+        <item>NY</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>OH</item>
+        <item>OK</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VT</item>
+        <item>VA</item>
+        <item>WA</item>
+        <item>WV</item>
+        <item>WI</item>
+        <item>WY</item>
+    </string-array>
+
+    <string-array name="city">
+        <item>ARI</item>
+        <item>ATL</item>
+        <item>BAL</item>
+        <item>BUF</item>
+        <item>CAR</item>
+        <item>CHI</item>
+        <item>CIN</item>
+        <item>CLE</item>
+        <item>DAL</item>
+        <item>DEN</item>
+        <item>DET</item>
+        <item>GB</item>
+        <item>HOU</item>
+        <item>IND</item>
+        <item>JAC</item>
+        <item>KC</item>
+        <item>LV</item>
+        <item>LA</item>
+        <item>MIA</item>
+        <item>MIN</item>
+        <item>NE</item>
+        <item>NO</item>
+        <item>NY</item>
+        <item>PHI</item>
+        <item>PIT</item>
+        <item>SF</item>
+        <item>SEA</item>
+        <item>TB</item>
+        <item>TEN</item>
+        <item>WAS</item>
+    </string-array>
+</resources>
